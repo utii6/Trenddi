@@ -10,9 +10,9 @@ from urllib.parse import urlparse
 
 # --- START OF FILE دعمكم.py ---
 
-Token = "6763Fq6Km2CLqyJazeH60M5rIBKvzPdrZoOk"  # توكنك
-admin = 7002964  # ايديك
-API_KEY = Token
+Token = "7927218130:AAFi7ssIuE58JsveJztgc0j5p3x3OXbvo0I"  # توكنك
+admin = 5581457665  # ايديك
+API_KEY = cdb27639587860a76894addd4821c419
 
 def bot(method, datas={}):
     Saied_Botate = f"https://api.telegram.org/bot{API_KEY}/{method}"
